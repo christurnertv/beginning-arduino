@@ -67,11 +67,15 @@ To enable serial data to be sent or received, we will use the ```Serial``` libra
 
 To initialize serial communication make the following call in the ```setup()``` function of your sketch.
 
-```Serial.begin(9600);```
+```
+Serial.begin(9600);
+```
 
 This will start start serial communication at a data rate of 9600 bps. Once initialized, you can send serial data as follows:
 
-```Serial.println("Hi from my Arduino sketch.");```
+```
+Serial.println("Hi from my Arduino sketch.");
+```
 
 When you run your sketch, you can click on the magnifier icon in the upper right corner to open the serial monitor and view the messages that are being sent.
 
