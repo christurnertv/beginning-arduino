@@ -46,7 +46,9 @@ As described in the intro lesson, the Arduino loop() function continuously execu
 
 To pause for a period of time, we can use the ```delay()``` function as follows:
 
-```delay(1000);```
+```
+delay(1000);
+```
 
 The delay above will last for 1000 milliseconds which is equivalent to 1 second.
 
