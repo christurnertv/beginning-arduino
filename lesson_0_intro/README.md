@@ -40,6 +40,7 @@ Once you have the IDE installed and configured we will run the Blink example tog
 - [Arduino Homepage](http://arduino.cc/en/): The main source for Arduino info.
 - [Bildr Blog](http://bildr.org/): Lots of neat Arduino examples.
 - [Fritzing](http://fritzing.org/download/): Software for drawing circuits.
+- [MIT High Low Tech Labs](http://hlt.media.mit.edu/?p=1695): Run Arduino on an ATtiny44/84 or ATtiny45/85.
 - [OSH Park](http://oshpark.com/): Not Arduino specific, but a affordable place to get PCB's made.
 - [SparkFun Electronics](https://learn.sparkfun.com/): Free learning material on Arudino and electronics. Also a great resource for electronic parts.
 
