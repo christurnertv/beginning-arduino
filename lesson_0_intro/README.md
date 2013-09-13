@@ -36,6 +36,7 @@ Once you have the IDE installed and configured we will run the Blink example tog
 ## Great Arduino Resources
 
 - [AdaFruit Industries](http://learn.adafruit.com/): Arduino tutorials and great place for electronic parts.
+- [Arduino Cheatsheet](https://dlnmh9ip6v2uc.cloudfront.net/learn/materials/8/Arduino_Cheat_Sheet.pdf): One page Arduino guide from SparkFun.
 - [Arduino Homepage](http://arduino.cc/en/): The main source for Arduino info.
 - [Bildr Blog](http://bildr.org/): Lots of neat Arduino examples.
 - [Fritzing](http://fritzing.org/download/): Software for drawing circuits.
