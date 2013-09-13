@@ -22,7 +22,7 @@ void loop() {
   digitalWrite(ledPin, HIGH);
 
   // send a serial message describing the led state
-  Serial.println("The led is ON.")
+  Serial.println("The led is ON.");
 
   // wait for 1000 milliseconds (1 second)
   delay(1000);
@@ -31,7 +31,7 @@ void loop() {
   digitalWrite(ledPin, LOW);
 
   // send a serial message describing the led state
-  Serial.println("The led is OFF.")
+  Serial.println("The led is OFF.");
 
   // wait again
   delay(1000);
