@@ -50,3 +50,5 @@ Once you have the IDE installed and configured we will run the Blink example tog
 Using a Shift Register to expand the number of outputs available on the Arduino.
 
 [http://bildr.org/2011/02/74hc595/](http://bildr.org/2011/02/74hc595/)
+
+Copyright © 2013 Gizmovation, LLC
