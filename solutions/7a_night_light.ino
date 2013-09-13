@@ -24,7 +24,7 @@ void loop() {
 
   // try out the photo resistor to see the output range
   // write the read value mapped to the proper scale
-  analogWrite(ledPin, map(reading, 10, 610, 0, 255));
+  analogWrite(ledPin, map(reading, 0, 1023, 0, 255));
 
   // print the read value
   Serial.println(reading);
