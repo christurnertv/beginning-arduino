@@ -54,4 +54,4 @@ In the above ```if``` examples, we used the ```==``` (equal to) operator. There 
 Use what you have learned about conditionals to create a simple button toggle. No changes to the circuit are needed. Note: This sketch isn't expected to work flawlessly. It will have some issues we will address in the next lesson.
 
 
-Copyright © 2013 Gizmovation, LLC
+Copyright © 2013-2014 Turner Logic, LLC

@@ -28,4 +28,4 @@ Use the things we learned about writing analog outputs to control the brightness
 
 ![Assignment 5 Circuit Diagram](5_pot_controlled_led_bb.png)
 
-Copyright © 2013 Gizmovation, LLC
+Copyright © 2013-2014 Turner Logic, LLC

@@ -21,4 +21,4 @@ The code for this lesson will be much more complex that previous lessons. You wi
 ![Assignment 3 Circuit Diagram](3_blink_button_bb.png)
 
 
-Copyright © 2013 Gizmovation, LLC
+Copyright © 2013-2014 Turner Logic, LLC

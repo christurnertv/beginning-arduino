@@ -39,4 +39,4 @@ In the example above you can see that we pass in a value we read, followed by th
 Use the ```map()``` function to convert the potentiometer input values to a scale of 0 to 10. Also, make sure that the output is only printed to the serial monitor if it has changed since the last reading. No changes to the circuit are required for this assignment.
 
 
-Copyright © 2013 Gizmovation, LLC
+Copyright © 2013-2014 Turner Logic, LLC

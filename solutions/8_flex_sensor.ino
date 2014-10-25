@@ -1,6 +1,6 @@
 /*
  Arduino Flex Sensor LED Indicator
- Copyright (C) 2013 Gizmovation, LLC
+ Copyright (C) 2013-2014 Turner Logic, LLC
  Released under MIT License
 
  Note: same code is used for thermistor and soft pot.

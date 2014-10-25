@@ -1,6 +1,6 @@
 /*
  Arduino Starter Template
- Copyright (C) 2013 Gizmovation, LLC
+ Copyright (C) 2013-2014 Turner Logic, LLC
  Released under MIT License
 */
 

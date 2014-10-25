@@ -1,6 +1,6 @@
 /*
  Arduino Blink with Serial Monitoring
- Copyright (C) 2013 Gizmovation, LLC
+ Copyright (C) 2013-2014 Turner Logic, LLC
  Released under MIT License
 
  Concepts Taught: serial monitoring

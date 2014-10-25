@@ -24,4 +24,4 @@ Up to this point, we don't really have a night light. More like variable light o
 
 Modify your sketch so that the led turns either fully on or fully off based on a set threshold light level.
 
-Copyright © 2013 Gizmovation, LLC
+Copyright © 2013-2014 Turner Logic, LLC

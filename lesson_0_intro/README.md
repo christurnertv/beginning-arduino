@@ -51,4 +51,4 @@ Using a Shift Register to expand the number of outputs available on the Arduino.
 
 [http://bildr.org/2011/02/74hc595/](http://bildr.org/2011/02/74hc595/)
 
-Copyright © 2013 Gizmovation, LLC
+Copyright © 2013-2014 Turner Logic, LLC

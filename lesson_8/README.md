@@ -33,4 +33,4 @@ Experiment with the soft potentiometer. Obtain some readings via the serial moni
 ![Assignment 8 Circuit Diagram](8_with_soft_pot_bb.png)
 
 
-Copyright © 2013 Gizmovation, LLC
+Copyright © 2013-2014 Turner Logic, LLC

@@ -42,4 +42,4 @@ Use the things we learned about array, for loops, and tones to build a simple to
 
 ![Assignment 9 Circuit Diagram](9_making_music_bb.png)
 
-Copyright © 2013 Gizmovation, LLC
+Copyright © 2013-2014 Turner Logic, LLC

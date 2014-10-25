@@ -1,6 +1,6 @@
 /*
  Arduino Analog Input with Potentiometer 2
- Copyright (C) 2013 Gizmovation, LLC
+ Copyright (C) 2013-2014 Turner Logic, LLC
  Released under MIT License
 
  Concepts Taught: map()

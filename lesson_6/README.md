@@ -26,4 +26,4 @@ Use the things you learned about functions to create custom functions for making
 
 ![Assignment 6 Circuit Diagram](6_rgb_led_bb.png)
 
-Copyright © 2013 Gizmovation, LLC
+Copyright © 2013-2014 Turner Logic, LLC

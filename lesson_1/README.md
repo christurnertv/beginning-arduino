@@ -84,4 +84,4 @@ When you run your sketch, you can click on the magnifier icon in the upper right
 Update your previous blink code to include include messages that tell when the led is turned on or off. No changes to the circuit are required for this assignment.
 
 
-Copyright © 2013 Gizmovation, LLC
+Copyright © 2013-2014 Turner Logic, LLC
