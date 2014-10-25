@@ -17,7 +17,7 @@ This is a workshop for students that want to learn the basics of Arduino. Here i
 - Lesson 8: Flex Sensors, Thermistors, and Soft Pots
 - Lesson 9: Making Music
 
-This workshop was put together by TurnerLogic, LLC. The written materials are © TurnerLogic, LLC and the source code is released under the MIT license.
+This workshop was put together by Turner Logic, LLC. The written materials are © Turner Logic, LLC and the source code is released under the MIT license.
 
 [Follow us on Twitter](https://twitter.com/TurnerLogic)
 
